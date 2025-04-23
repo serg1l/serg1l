@@ -1,6 +1,7 @@
-<h2 align="center">Helloooo there 🤝🐟</h2>
-<p align="center">i'm a software developer from colombia who is really passionate and loves everythingabout tech stuf</p>
+<h2 align="center">Hello there 🐟</h2>
+<p align="center">i'm a software developer from colombia who is really passionate and loves everything about tech stuf</p>
 <h2 align="center">Skills</h2>
+<br/>
 <h4 align="center">Programming languages</h4>
 <p align="center">
     <a><img alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"></a>
