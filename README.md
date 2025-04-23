@@ -1,12 +1,12 @@
 <h2>Helloooo thre</h2>
 <div>
-    <div align="left">
+    <div align="left" display="inline-block">
         <p>this is a test</p>
         <p>Another paragraph</p>
         <p>Yet another paragraph</p>
         <p>Yet another paragraph</p>
     </div>
-    <div align="right">
+    <div align="right" display="inline-block">
         <img src="https://avatars.githubusercontent.com/u/98274513?v=4" width="50" height="50">
         <p>Another paragraph</p>
         <p>Yet another paragraph</p>
