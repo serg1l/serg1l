@@ -21,8 +21,8 @@
     <a><img alt="vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"></a>
     <a><img alt="bootstrap" src"https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" </a>
 </p>
-<h3>Tools</h3>
-<p>
+<h3 align="center">Tools</h3>
+<p align="center">
     <a><img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
     <a><img alt="debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff"></a>
     <a><img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
@@ -30,8 +30,8 @@
     <a><img alt="zed" src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF"></a>
     <a><img alt="visual studio code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
 </p>
-<h3 align="left">Cloud</h3>
- <p align="left">
+<h3 align="center">Cloud</h3>
+ <p align="center">
     <a><img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a><img alt="redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
     <a><img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"></a>
