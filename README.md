@@ -1,6 +1,6 @@
 <h2>Helloooo thre</h2>
 <div>
-    <div align="left" display="inline">
+    <div align="left" display="inline" color="blue">
         <p>this is a test</p>
         <p>Another paragraph</p>
         <p>Yet another paragraph</p>
