@@ -1,2 +1,2 @@
-<h2 align="center" border="none">hello there!</h2>
+<h3 align="center">hello there!</h3>
 hello
