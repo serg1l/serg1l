@@ -1,8 +1,7 @@
 <h2 align="center">Helloooo there 🤝🐟</h2>
 <p align="center">i'm a software developer from colombia who is really passionate and loves everythingabout tech stuf</p>
-<h2 align="center">Helloo
 <h2 align="center">Skills</h2>
-<h3 align="center">Programming languages</h3>
+<h4 align="center">Programming languages</h4>
 <p align="center">
     <a><img alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"></a>
     <a><img alt="javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></a>
@@ -16,14 +15,14 @@
     <a><img alt="scss" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"></a>
 </p>
 <hr/>
-<h3 align="center">Frameworks/libraries</h3>
+<h4 align="center">Frameworks/libraries</h4>
 <p align="center">
     <a><img alt="express.js" src= "https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
     <a><img alt="vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"></a>
     <a><img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"</a>
 </p>
 <hr/>
-<h3 align="center">Tools</h3>
+<h4 align="center">Tools</h4>
 <p align="center">
     <a><img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
     <a><img alt="debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff"></a>
@@ -33,7 +32,7 @@
     <a><img alt="visual studio code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
 </p>
 <hr/>
-<h3 align="center">Cloud</h3>
+<h4 align="center">Cloud</h4>
  <p align="center">
     <a><img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a><img alt="redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"></a>
