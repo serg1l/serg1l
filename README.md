@@ -1,5 +1,5 @@
 <h2 align="center">Hello there 🐟</h2>
-<p align="center">i'm a software developer from colombia who is really passionate and loves everything about tech stuf</p>
+<p align="center">i'm a software developer from colombia who is really passionate and loves everything about tech stuff</p>
 <h2 align="center">Skills</h2>
 <br/>
 <h4 align="center">Programming languages</h4>
